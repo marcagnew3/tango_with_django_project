@@ -38,6 +38,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\tango_with_django_project\templates\rango\about.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\tango_with_django_project\templates\rango\index.html">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
